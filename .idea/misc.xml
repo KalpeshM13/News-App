@@ -1,0 +1,35 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/App/NewsApp/app/src/main/res/drawable/bg_round.xml" value="0.2085" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/drawable/ic_share.xml" value="0.179" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout-night/activity_about.xml" value="0.25416666666666665" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout-night/activity_browse_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout-night/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout-night/headline_list_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout-v3/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout/activity_about.xml" value="0.264" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout/activity_browse_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout/activity_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout/businessfragment.xml" value="0.264" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout/entertainmentfragment.xml" value="0.1" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout/headline_list_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout/healthfragment.xml" value="0.1" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout/homefragment.xml" value="0.264" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout/navheader.xml" value="0.264" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout/progressdialog.xml" value="0.25" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout/sportsfragment.xml" value="0.1" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/layout/technologyfragment.xml" value="0.1" />
+        <entry key="..\:/App/NewsApp/app/src/main/res/menu/icon_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

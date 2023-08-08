@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Daily News</string>
+    <string name="api_key">8355d653b04b4d9a941f058e360866dc</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="newsApi_org"><u>NewsAPI.org</u></string>
+    <string name="view_in_chrome">View in Chrome</string>
+    <string name="you_can_hire_me_for_your_projects">~You can Hire me for your projects~</string>
+    <string name="this_app_provides_news_from_the_news_api_if_you_have_any_complaint_with_news_provided_by_this_app_you_can_go_to_newsapi_org">This app provides news from the News API. If you have any complaint with news provided by this app, You can go to NewsAPI.org</string>
+
+</resources>
